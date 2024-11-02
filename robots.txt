@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehepoave.github.io/NFW/sitemap_index.txt
+Sitemap: https://ehepoave.github.io/RDr/sitemap_index.txt
+Sitemap: https://ehepoave.github.io/hdJ/sitemap_index.txt
+Sitemap: https://ehepoave.github.io/yon/sitemap_index.txt
